@@ -70,7 +70,7 @@ letter-spacing:0.08em;
 em{
 color:#3399ff;
 font-weight:700;
-font-size:0.8em;
+font-size:1em;
 display:block;
 font-style:normal;
 }
@@ -113,6 +113,7 @@ position:relative;
 
 .container .section_left{
 width:25%;
+height:900px;
 padding:20px;
 background: #1b2631 ;
 color:#fff;
